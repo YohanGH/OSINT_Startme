@@ -24,6 +24,20 @@ We urge all users of this project to exercise caution, adhere to moral standards
 
 **Remember: Access to information does not grant the right to compromise someone else's privacy. Always act with responsibility and discernment.**
 
+---
+### Table of contents
+
+#### 1. Cybersecurity & Intelligence
+#### 2. Information & Data Management
+#### 3. Online Communities & Social Media
+#### 4. Research & Analysis Tools
+#### 5. Legal & Public Records
+#### 6. Images
+#### 🔗 **_Links_**  ⬇️
+
+
+---
+
 ## 1. Cybersecurity & Intelligence
 
 This category encompasses a wide range of resources and tools dedicated to cybersecurity and intelligence. It covers everything from training and education in cybersecurity to malicious file analysis, including the latest threats and vulnerabilities. Subcategories include:
@@ -84,22 +98,30 @@ This final category highlights the use of public and legal records in OSINT rese
 
 Each category is designed to offer a structured approach and valuable resources to deepen skills and knowledge in OSINT.
 
-## Images
+## 6.Images
 
 ### List of categories
 <p align="middle">
 
-  <img src="https://github.com/YohanGH/OSINT_Startme/blob/main/Assets/Osint_Startme_1.png" title="OSINT" style="width: 50%">
+  <img src="https://github.com/YohanGH/OSINT_Startme/blob/main/Assets/Osint_Startme_1.png" title="OSINT" style="width: 100%">
 
-  <img src="https://github.com/YohanGH/OSINT_Startme/blob/main/Assets/Osint_Startme_2.png" title="OSINT" style="width: 50%">
+  <img src="https://github.com/YohanGH/OSINT_Startme/blob/main/Assets/Osint_Startme_2.png" title="OSINT" style="width: 100%">
 
-  <img src="https://github.com/YohanGH/OSINT_Startme/blob/main/Assets/Osint_Startme_3.png" title="OSINT" style="width: 50%">
+  <img src="https://github.com/YohanGH/OSINT_Startme/blob/main/Assets/Osint_Startme_3.png" title="OSINT" style="width: 100%">
 
 </p>
 
 ### Categories detailed
 
+<p align="left">
 
-# Access link
+  <img src="https://github.com/YohanGH/OSINT_Startme/blob/main/Assets/Osint_Colonne_1.png" title="OSINT" style="width: 100%">
+
+</p>
+
+---
+# Access Link
 
 # [Start.me Osint](https://start.me/p/aNLQq0/osint)
+
+---
