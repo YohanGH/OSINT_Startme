@@ -89,11 +89,11 @@ Each category is designed to offer a structured approach and valuable resources 
 ### List of categories
 <p align="middle">
 
-  <img src="https://github.com/YohanGH/OSINT-Startme/assets/Osint_Startme_1.png" title="OSINT" style="width: 50%">
+  <img src="https://github.com/YohanGH/OSINT_Startme/blob/main/Assets/Osint_Startme_1.png" title="OSINT" style="width: 50%">
 
-  <img src="https://github.com/YohanGH/OSINT-Startme/assets/Osint_Startme_2.png" title="OSINT" style="width: 50%">
+  <img src="https://github.com/YohanGH/OSINT_Startme/blob/main/Assets/Osint_Startme_2.png" title="OSINT" style="width: 50%">
 
-  <img src="https://github.com/YohanGH/OSINT-Startme/assets/Osint_Startme_3.png" title="OSINT" style="width: 50%">
+  <img src="https://github.com/YohanGH/OSINT_Startme/blob/main/Assets/Osint_Startme_3.png" title="OSINT" style="width: 50%">
 
 </p>
 
