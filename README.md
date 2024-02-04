@@ -115,7 +115,7 @@ Each category is designed to offer a structured approach and valuable resources 
 
 <p align="left">
 
-  <img src="https://github.com/YohanGH/OSINT_Startme/blob/main/Assets/Osint_Colonne_1.png" title="OSINT" style="width: 100%">
+  <img src="https://github.com/YohanGH/OSINT_Startme/blob/main/Assets/Osint_Colonne_1.png" title="OSINT" style="width: 50%">
 
 </p>
 
